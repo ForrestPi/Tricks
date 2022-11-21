@@ -4,6 +4,6 @@ pandas==0.22.0
 scikit-image==0.14.0
 scikit-learn==0.19.1
 seaborn==0.8.1
-tensorflow==1.15.4
+tensorflow==2.9.3
 Keras==2.2.2
 albumentations==0.0.4
